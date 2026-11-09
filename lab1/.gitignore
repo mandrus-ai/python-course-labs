@@ -1,6 +1,5 @@
 .venv/
-.venv-uv/
-.tmp-pip/
-.tmp-uv/
 __pycache__/
 .ipynb_checkpoints/
+.tmp-pip/
+.tmp-uv/

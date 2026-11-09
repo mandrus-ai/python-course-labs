@@ -890,4 +890,3 @@ survived,pclass,sex,age,sibsp,parch,fare,embarked,class,who,adult_male,deck,emba
 0,3,female,,1,2,23.45,S,Third,woman,False,,Southampton,no,False
 1,1,male,26.0,0,0,30.0,C,First,man,True,C,Cherbourg,yes,True
 0,3,male,32.0,0,0,7.75,Q,Third,man,True,,Queenstown,no,True
-
