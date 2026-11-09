@@ -44,4 +44,3 @@ typing_extensions==4.16.0
 tzdata==2026.6
 uv==0.13.7
 wcwidth==0.9.4
-
